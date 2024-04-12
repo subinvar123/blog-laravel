@@ -1,0 +1,21 @@
+/* Banner.css */
+
+.banner_section {
+    /* Your banner section styles */
+  }
+  
+  /* Set background images for carousel items */
+  .carousel-item:nth-child(1) {
+    background-image: url('../images/banner-bg.png');
+  }
+  
+  .carousel-item:nth-child(2) {
+    background-image: url('../images/banner-bg.png');
+  }
+  
+  .carousel-item:nth-child(3) {
+    background-image: url('../images/banner-bg.png');
+  }
+  
+  /* Additional styles for text and buttons can be added here */
+  
